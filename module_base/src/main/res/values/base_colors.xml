@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--ActionBar背景颜色-->
+    <color name="colorPrimary">#FFFFFF</color>
+    <!--状态栏颜色-->
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <!--默认控件选中状态-->
+    <color name="colorAccent">#616161</color>
+
+    <color name="colorPrimaryPressed">#ffff</color>
+</resources>

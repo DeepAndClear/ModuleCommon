@@ -1,0 +1,30 @@
+<resources>
+    <string name="base_time_remaining">还剩</string>
+
+    <string name="base_time_second">秒</string>
+
+    <string name="base_front_second">秒前</string>
+
+    <string name="base_front_minute">分钟前</string>
+
+    <string name="base_front_hour">小时前</string>
+
+    <string name="base_front_day">天前</string>
+
+    <string name="format_day_year">yyyy年MM月dd日</string>
+
+    <string name="format_day_month">MM月dd日</string>
+
+    <string name="format_time_month">MM月dd日 HH:mm</string>
+
+    <string name="base_time_day">日</string>
+
+    <string name="base_time_hour">时</string>
+
+    <string name="base_time_minute">分</string>
+
+    <string name="base_time_year">年</string>
+
+    <string name="base_time_month">月</string>
+
+</resources>

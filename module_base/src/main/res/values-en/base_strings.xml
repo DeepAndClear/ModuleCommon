@@ -1,0 +1,30 @@
+<resources>
+    <string name="base_time_remaining">surplus</string>
+
+    <string name="base_time_second">s</string>
+
+    <string name="base_time_minute">m</string>
+
+    <string name="base_time_hour">h</string>
+
+    <string name="base_time_day">d</string>
+        
+    <string name="base_time_month">month</string>
+        
+    <string name="base_time_year">year </string>
+
+    <string name="base_front_second"> second ago</string>
+
+    <string name="base_front_minute"> minute ago</string>
+
+    <string name="base_front_hour"> hour ago</string>
+
+    <string name="base_front_day"> day ago</string>
+
+    <string name="format_day_year">dd - MM - yyyy</string>
+
+    <string name="format_day_month">dd - MM</string>
+
+    <string name="format_time_month">HH:mm dd - MM</string>
+        
+</resources>

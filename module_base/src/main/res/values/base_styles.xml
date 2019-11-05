@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--ActionBar背景颜色-->
+        <item name="colorPrimary">@color/primary_background_light_color</item>
+        <!--状态栏颜色-->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!--默认控件选中状态-->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--默认控件常态颜色-->
+        <item name="colorControlNormal">@color/text_general_color_dark</item>
+
+        <!--页面背景颜色-->
+        <item name="android:windowBackground">@color/primary_background_color</item>
+        <!--底部导航栏颜色-->
+        <item name="android:navigationBarColor">@color/primary_background_color</item>
+        <!--ToolBar 文字颜色-->
+        <item name="android:textColorPrimary">@color/text_general_color_dark</item>
+
+        <item name="android:textColorPrimaryInverse">@color/text_general_color_inverse</item>
+        <item name="android:textColorHighlight">@color/text_general_color_light</item>
+        <item name="android:textColorHint">@color/text_general_color_shallow</item>
+        <!--(12sp)caption 字体颜色-->
+        <item name="android:textColorSecondary">@color/text_general_color_shallow</item>
+        <!--(14sp)small 字体颜色-->
+        <item name="android:textColorTertiary">@color/text_general_color_dark</item>
+
+        <item name="android:textColorSecondaryInverse">@color/text_general_color_inverse</item>
+        <item name="android:textColorTertiaryInverse">@color/text_general_color_inverse</item>
+    </style>
+
+    <style name="DialogStyle" parent="ThemeOverlay.AppCompat.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>
